@@ -1,0 +1,179 @@
+$primary: #E8320C;
+$secondary: #FF5100;
+$tertiary: #FF9F0D;
+$dark: #1C1B1B;
+$gray: #333232;
+
+$spacing-unit: 30px;
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font: 14px "Crimson Text", Helvetica, Arial, sans-serif;
+  background-color: $dark;
+}
+
+header {
+  color: $primary;
+  min-height: 50px;
+  background-color: $dark;
+  border-bottom: 2px solid $gray;
+
+  h1 {
+    font-size: 32px;
+    float: left;
+    line-height: 40px;
+
+    a {
+      transition: 0.5s;
+      color: darken($primary, 15%);
+      -webkit-animation: pulsate 3s ease-out;
+      -webkit-animation-iteration-count: infinite;
+
+      &:hover {
+        color: lighten($tertiary, 20%);
+        text-decoration: none;
+        -webkit-animation: none;
+        transition: 0.5s;
+        text-shadow: 0px 0px 20px $secondary;
+      }
+    }
+  }
+
+  nav {
+    float: right;
+  }
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    text-shadow: 0px 0px 5px $tertiary;
+    color: $primary;
+  }
+  50% {
+    text-shadow: 0px 0px 20px $primary;
+    color: $tertiary;
+  }
+  100% {
+    text-shadow: 0px 0px 5px $tertiary;
+    color: $primary;
+  }
+}
+
+.dropbtn {
+  background-color: $gray;
+  border-color: lighten($gray, 20%);
+  width: 100px;
+  height: 48px;
+  font-size: 24px;
+  font-weight: bold;
+
+  &:hover {
+    background-color: darken($gray, 5%);
+    border-color: lighten($gray, 15%);
+    color: darken($primary, 15%);
+  };
+}
+
+footer {
+  color: $gray;
+  min-height: 40px;
+  background-color: $dark;
+  border-top: 2px solid $gray;
+  line-height: 36px;
+}
+
+a {
+  color: $primary;
+  text-decoration: none;
+  transition: 0.25s;
+
+  &:visited {
+    color: darken($primary, 15%);
+  }
+
+  &:hover {
+    color: $tertiary;
+    text-decoration: none;
+    transition: 0.25s;
+  }
+}
+
+main {
+  display: flex;
+  min-height: 800px;
+  color: $secondary;
+  text-shadow: 0px 0px 3px $tertiary;
+  background: url("/images/grimnir.jpg") no-repeat center fixed;
+  background-size: cover;
+
+  h2 {
+    -webkit-animation: pulsate 6s ease-out;
+    -webkit-animation-iteration-count: infinite;
+  }
+
+  .container {
+    background-color: rgba($gray, 0.75);
+  }
+}
+
+section {
+  margin: $spacing-unit;
+}
+
+.army-list {
+
+  li {
+    display: inline-block;
+    margin: 5px;
+
+    button {
+      font-weight: bold;
+      font-size: 16px;
+      min-height: 40px;
+      text-shadow: 0px 0px 1px $tertiary;
+      background-color: $dark;
+      border-color: $primary;
+      border-radius: 40%;
+      transition: 0.25s;
+      &:focus {outline: none;}
+
+      &:hover {
+        transition: 0.25s;
+        text-shadow: 0px 0px 10px $tertiary;
+        color: $gray;
+        border-color: $gray;
+      }
+    }
+  }
+}
+
+.unit-list {
+
+  li {
+    display: inline-block;
+    margin: 5px;
+
+    a {
+      background-color: $dark;
+      border-color: $primary;
+      color: $tertiary;
+      text-shadow: 0px 0px 3px $primary;
+      transition: 0.25s;
+
+      &:hover {
+        color: lighten($tertiary, 20%);
+        text-shadow: 0px 0px 10px $tertiary;
+        border-color: $tertiary;
+        transition: 0.25s;
+      }
+    }
+  }
+}

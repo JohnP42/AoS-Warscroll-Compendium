@@ -1,0 +1,8 @@
+<ul class="unit-list">
+  <h2><%= army.name %> Units</h2>
+  <% for (var i in army.units) { %>
+  <li>
+    <a class="btn btn-lg" href="<%=army.units[i].scroll%>" target="_blank"><%= army.units[i].name %></a>
+  </li>
+  <% } %>
+</ul>

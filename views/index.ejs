@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <% include _includes/head.ejs %>
+  <body>
+
+    <% include _includes/header.ejs %>
+
+    <main>
+      <div class="container text-center">
+        <section class="row armies">
+          <h2>Armies</h2>
+          <ul class="army-list">
+            <% for (var i in armies) { %>
+            <li>
+              <button id="<%=i%>"><%= armies[i].name %></button>
+            </li>
+            <% } %>
+          </ul>
+        </section>
+        <section class="row units">
+          <% include _partials/_units.ejs %>
+        </section>
+      </div>
+    </main>
+
+    <% include _includes/footer.ejs %>
+    <% include _includes/scripts.ejs %>
+  </body>
+</html>

@@ -1,0 +1,395 @@
+{
+  "armies" : [
+    {
+      "name": "Disspossessed",
+      "units": [
+        {"name": "Hammerers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-hammerers-en.pdf"},
+        {"name": "Ironbreakers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-ironbreakers-en.pdf"},
+        {"name": "Irondrakes",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-irondrakes-en.pdf"},
+        {"name": "Longbeards",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-longbeards-en.pdf"},
+        {"name": "Thunderers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-thunderers-en.pdf"},
+        {"name": "Quarrellers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-quarrellers-en.pdf"},
+        {"name": "Warriors",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-warriors-en.pdf"},
+        {"name": "Runelord",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-runelord-en.pdf"},
+        {"name": "Unforged",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-unforged-en.pdf"},
+        {"name": "Warden King",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-warden-king-en.pdf"}
+      ]
+    },
+    {
+      "name": "Ironweld Arsenal",
+      "units": [
+        {"name": "Steam Tank",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-steam-tank-en.pdf"},
+        {"name": "Gyrobomber",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-gyrobomber-en.pdf"},
+        {"name": "Gyrocopter",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-gyropcopter-en.pdf"},
+        {"name": "Helstorm Rocket Battery",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-helstorm-rocket-battery-en.pdf"},
+        {"name": "Helblaster Volley Gun",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-helblaster-volley-gun-en.pdf"},
+        {"name": "Cannon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-cannon-en.pdf"},
+        {"name": "Organ Gun",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-organ-gun-en.pdf"},
+        {"name": "Gogsmith",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-cogmsith-en.pdf"},
+        {"name": "Gunmaster",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-gunmaster-en.pdf"}
+      ]
+    },
+    {
+      "name": "Fyreslayers",
+      "units": [
+        {"name": "Auric Runefather on Magmadroth",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-auric-runefather-magmadroth-en.pdf"},
+        {"name": "Vulkite Berzerkers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-vulkite-berzerkers-en.pdf"},
+        {"name": "Auric Runeson on Magmadroth",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-auric-runeson-magmadroth-en.pdf"},
+        {"name": "Auric Runesmiter on Magmadroth",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-auric-runesmiter-magmadroth-en.pdf"},
+        {"name": "Hearthguard Berzerkers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-hearthguard-berzerkers-en.pdf"},
+        {"name": "Auric Hearthguard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-auric-hearthguard-en.pdf"},
+        {"name": "Auric Runemaster",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-auric-runemaster-en.pdf"},
+        {"name": "Grimwrath Berzerker",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-fyreslayers-grimwrath-berzerker-en.pdf"},
+        {"name": "Battlesmith",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-fyreslayers-battlesmith-en.pdf"}
+      ]
+    },
+    {
+      "name": "Wanderers",
+      "units": [
+        {"name": "Sisters of Avelorn",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sisters-of-the-watch-en.pdf"},
+        {"name": "Wildwood Rangers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-wildwood-rangers-en.pdf"},
+        {"name": "Eternal Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-eternal-guard-en.pdf"},
+        {"name": "Wild Riders",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-wild-riders-en.pdf"},
+        {"name": "Sisters of the Thorn",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sisters-of-the-thorn-en.pdf"},
+        {"name": "Glade Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-glade-guard-en.pdf"},
+        {"name": "Nomad Prince",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-nomad-prince-en.pdf"},
+        {"name": "Spellweaver",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-spellweaver-en.pdf"},
+        {"name": "Waystrider",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-waystrider-en.pdf"},
+        {"name": "Waywatcher",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-waywatcher-en.pdf"},
+        {"name": "Wayfinder",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-wayfinder-en.pdf"}
+      ]
+    },
+    {
+      "name": "Sylvaneth",
+      "units": [
+        {"name": "Sylvaneth Treelord Ancient",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-treelordancient-en.pdf"},
+        {"name": "Sylvaneth Wyldwood",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Compendiums/warhammer-aos-scenery-en.pdf"},
+        {"name": "Sylvaneth Treelord",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-treelord-en.pdf"},
+        {"name": "Durthu",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Compendiums/warhammer-aos-wood-elves-en.pdf"},
+        {"name": "Sylvaneth Dryads",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dryads-en.pdf"},
+        {"name": "Branchwraith",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-branchwraith-en.pdf"}
+      ]
+    },
+    {
+      "name": "Stormcast Eternals",
+      "units": [
+        {"name": "Celestant-Prime",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-celestantprime-en.pdf"},
+        {"name": "Paladin Decimators",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-decimators-en.pdf"},
+        {"name": "Knight-Venator",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-knightvenator-en.pdf"},
+        {"name": "Lord-Celestant on Dracoth",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-lord-celestant-dracoth-en.pdf"},
+        {"name": "Prosecutors with Stormcall Javelins",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-prostecutorjavelins-en.pdf"},
+        {"name": "Prosecutors with Celestial Hammers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-prostecutorhammers-en.pdf"},
+        {"name": "Paladin Protectors",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-protectors-en.pdf"},
+        {"name": "Paladin Retributors",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-retributors-en.pdf"},
+        {"name": "Judicators",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/warhammer-aos-judicators-en.pdf"},
+        {"name": "Liberators",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/warhammer-aos-liberators-en.pdf"},
+        {"name": "Knight-Azyros",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-knightazyros-en.pdf"},
+        {"name": "Lord-Castellant",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/warhammer-aos-lordcastellant-en.pdf"},
+        {"name": "Lord-Celestant",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/warhammer-aos-lordcelestant-en.pdf"},
+        {"name": "Knight-Vexillor",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-knightvexillor-en.pdf"},
+        {"name": "Knight-Heroldor",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-knightheraldor-en.pdf"}
+      ]
+    },
+    {
+      "name": "Extremis Chamber",
+      "units": [
+        {"name": "Stardrake",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-stormcast-stardrake-en.pdf"},
+        {"name": "Dracothian Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dracothian-guard-en.pdf"},
+        {"name": "Lord-Celestant on Dracoth",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-lord-celestant-dracoth-en.pdf"}
+      ]
+    },
+    {
+      "name": "Seraphon",
+      "units": [
+        {"name": "Stegadon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-stegadon-en.pdf"},
+        {"name": "Troglodon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-troglodon-en.pdf"},
+        {"name": "Saurus Scar-Veteran on Carnosaur",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-veterancarnosaur-en.pdf"},
+        {"name": "Saurus Oldblood on Carnosaur",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-oldbloodcarnosaur-en.pdf"},
+        {"name": "Ripperdactyl Riders",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-ripperdactylriders-en.pdf"},
+        {"name": "Terradon Riders",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-terradonriders-en.pdf"},
+        {"name": "Bastiladon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-bastiladon-en.pdf"},
+        {"name": "Engine of The Gods",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-engineofthegods-en.pdf"},
+        {"name": "Saurus Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-saurusguard-en.pdf"},
+        {"name": "Kroxigor",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-kroxigor-en.pdf"},
+        {"name": "Skink Starseer",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-skinkstarseer-en.pdf"},
+        {"name": "Slann Starmaster",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-slannstarmaster-en.pdf"},
+        {"name": "Lord Kroak",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-lordkroak-en.pdf"},
+        {"name": "Saurus Warrior",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sauruswarriors-en.pdf"},
+        {"name": "Saurus Knights",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-saurusknights-en.pdf"},
+        {"name": "Skinks",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-skinks-en.pdf"},
+        {"name": "Razordon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-razordon-en.pdf"},
+        {"name": "Salamander",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-salamander-en.pdf"},
+        {"name": "Saurus Sunblood",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-saurussunblood-en.pdf"},
+        {"name": "Chameleon Skinks",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-chameleonskinks-en.pdf"},
+        {"name": "Saurus Astrolith Bearer",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-astrolithbearer-en.pdf"},
+        {"name": "Skink Starpriest",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-skinkstarpriest-en.pdf"},
+        {"name": "Saurus Eternity Warden",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-eternitywarden-en.pdf"},
+        {"name": "Saurus Scar Veteran on Cold One",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-veterancoldone-en.pdf"},
+        {"name": "Skink Priest With Feathered Cloak",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-skinkpriest-en.pdf"},
+        {"name": "Saurus Oldblood",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-saurusoldblood-en.pdf"}
+      ]
+    },
+    {
+      "name": "Devoted of Sigmar",
+      "units": [
+        {"name": "Volkmar the Grim on The War Alter of Sigmar",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-war-altar-sigmar-en.pdf"},
+        {"name": "Flagellants",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-flagellants-en.pdf"},
+        {"name": "Warrior Priest",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-warrior-priest-en.pdf"},
+        {"name": "Witch Hunter",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-witch-hunter-en.pdf"}
+      ]
+    },
+    {
+      "name": "Free Peoples",
+      "units": [
+        {"name": "Demigryph Knights",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-demigryph-knights-en.pdf"},
+        {"name": "Freeguild General on Griffon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-general-griffon-en.pdf"},
+        {"name": "Freeguild Greatswords",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-greatswords-en.pdf"},
+        {"name": "Freeguild General",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-general-en.pdf"},
+        {"name": "Freeguild Outriders",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-outriders-en.pdf"},
+        {"name": "Freeguild Pistoliers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-pistoliers-en.pdf"},
+        {"name": "Freeguild Handgunners",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-handgunners-en.pdf"},
+        {"name": "Freeguild Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-guard-en.pdf"},
+        {"name": "Freeguild Archers",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-archers-en.pdf"},
+        {"name": "Freeguild Crossbowmen",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-freeguild-crossbowmen-en.pdf"}
+      ]
+    },
+    {
+      "name": "Collegiate Arcane",
+      "units": [
+        {"name": "Battlemage on Griffon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-battlemage-griffon-en.pdf"},
+        {"name": "Luminark of Hysh",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-luminark-hysh-en.pdf"},
+        {"name": "Celestial Hurricanum",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-celestial-hurricanum-en.pdf"},
+        {"name": "Battlemage",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-battlemage-en.pdf"}
+      ]
+    },
+    {
+      "name": "Eldritch Council",
+      "units": [
+        {"name": "Archmage on Dragon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-archmage-dragon-en.pdf"},
+        {"name": "Swordmasters",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-swordmasters-en.pdf"},
+        {"name": "Archmage",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-archmage-en.pdf"},
+        {"name": "Loremaster",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-loremaster-en.pdf"}
+      ]
+    },
+    {
+      "name": "Phoenix Temple",
+      "units": [
+        {"name": "Frostheart Phoenix",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-frostheart-phoenix-en.pdf"},
+        {"name": "Flamespyre Phoenix",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-flamespyre-phoenix-en.pdf"},
+        {"name": "Phoenix Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-phoenix-guard-en.pdf"}
+      ]
+    },
+    {
+      "name": "Lion Rangers",
+      "units": [
+        {"name": "White Lions",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-white-lions-en.pdf"},
+        {"name": "White Lion Chariot",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-white-lion-chariot-en.pdf"}
+      ]
+    },
+    {
+      "name": "Order Draconis",
+      "units": [
+        {"name": "Dragonlord",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dragon-lord-en.pdf"},
+        {"name": "Dragon Blades",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dragon-blades-en.pdf"}
+      ]
+    },
+    {
+      "name": "Swifthawk Agents",
+      "units": [
+        {"name": "Skycutters",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-skycutter-en.pdf"},
+        {"name": "Shadow Warriors",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-shadow-warriors-en.pdf"},
+        {"name": "Chariots",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-swifthawk-chariots-en.pdf"}
+      ]
+    },
+    {
+      "name": "Scourge Privateers",
+      "units": [
+        {"name": "Kharibdyss",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-kharibdyss-en.pdf"},
+        {"name": "Scourgerunner Chariot",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-scourgerunner-chariot-en.pdf"},
+        {"name": "Black Ark Corsairs",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-black-ark-corsairs-en.pdf"},
+        {"name": "Black Ark Fleetmaster",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-black-ark-fleetmaster-en.pdf"}
+      ]
+    },
+    {
+      "name": "Daughters of Khaine",
+      "units": [
+        {"name": "Bloodwrack Shrine",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-bloodwrack-shrine-en.pdf"},
+        {"name": "Cauldron of Blood",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-caludron-blood-en.pdf"},
+        {"name": "Witch Aelves",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-witch-aelves-en.pdf"},
+        {"name": "Sisters of Slaughter",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sisters-slaughter-en.pdf"},
+        {"name": "Doomfire Warlocks",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-doomfire-warlocks-en.pdf"}
+      ]
+    },
+    {
+      "name": "Darkling Covens",
+      "units": [
+        {"name": "Sorceress on Black Dragon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sorceress-black-dragon-en.pdf"},
+        {"name": "Executioners",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-executioners-en.pdf"},
+        {"name": "Black Guard",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-black-guard-en.pdf"},
+        {"name": "Darkshards",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-darkshards-en.pdf"},
+        {"name": "Dreadspears",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dreadspears-en.pdf"},
+        {"name": "Bleackswords",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-bleakswords-en.pdf"},
+        {"name": "Sorceress",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-sorceress-en.pdf"}
+      ]
+    },
+    {
+      "name": "Shadowblades",
+      "units": [
+        {"name": "Dark Riders",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dark-riders-en.pdf"},
+        {"name": "Assassin",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-shadowblade-assassin-en.pdf"}
+      ]
+    },
+    {
+      "name": "Order Serpentis",
+      "units": [
+        {"name": "War Hydra",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-war-hydra-en.pdf"},
+        {"name": "Dreadlord on Black Dragon",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dreadlord-black-dragon-en.pdf"},
+        {"name": "Drakespawn Chariot",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-drakespawn-chariots-en.pdf"},
+        {"name": "Drakespawn Knights",
+        "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-drakespawn-knights-en.pdf"}
+      ]
+    }
+  ]
+}
