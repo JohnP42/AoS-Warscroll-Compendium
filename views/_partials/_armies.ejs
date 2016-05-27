@@ -1,0 +1,8 @@
+<h2>Armies</h2>
+<ul class="army-list">
+  <% for (var i in armies) { %>
+  <li>
+    <button id="<%=i%>"><%= armies[i].name %></button>
+  </li>
+  <% } %>
+</ul>

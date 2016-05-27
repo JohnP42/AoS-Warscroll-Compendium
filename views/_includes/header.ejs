@@ -1,5 +1,12 @@
 <header>
   <div class="container">
     <h1><a href="/">Age of Sigmar: Warscroll Compendium</a></h1>
+    <nav>
+      <ul>
+        <% for (var i in alliances) { %>
+        <li><a id="alliance-<%=i%>" href="/armies"><%= alliances[i].name %></a></li>
+        <% } %>
+      </ul>
+    </nav>
   </div>
 </header>

@@ -8,14 +8,7 @@
     <main>
       <div class="container text-center">
         <section class="row armies">
-          <h2>Armies</h2>
-          <ul class="army-list">
-            <% for (var i in armies) { %>
-            <li>
-              <button id="<%=i%>"><%= armies[i].name %></button>
-            </li>
-            <% } %>
-          </ul>
+          <% include _partials/_armies.ejs %>
         </section>
         <section class="row units">
           <% include _partials/_units.ejs %>

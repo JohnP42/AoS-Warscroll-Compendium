@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  $(".army-list button").on("click", function(event) {
+  $(".armies").on("click", "button", function(event) {
     event.preventDefault();
 
     var id = $(this).attr("id");
@@ -14,7 +14,22 @@ $(document).ready(function() {
         $(".units").append(data);
       }
     });
-
   });
+
+  $("nav a").on("click", function(event) {
+    event.preventDefault();
+
+    var id = $(this).attr("id").slice(-1);
+
+    $.ajax({
+      type: "POST",
+      data: {index: id},
+      url: "/armies",
+      success: function(data) {
+        $(".armies").empty();
+        $(".armies").append(data);
+      }
+    });
+  })
 
 });

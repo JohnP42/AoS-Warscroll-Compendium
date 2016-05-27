@@ -1,14 +1,14 @@
 0 info it worked if it ends with ok
 1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
-2 info using npm@3.8.9
+2 info using npm@3.9.3
 3 info using node@v6.2.0
 4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info lifecycle ArmyBuilder@0.0.0~prestart: ArmyBuilder@0.0.0
 6 silly lifecycle ArmyBuilder@0.0.0~prestart: no script for prestart, continuing
 7 info lifecycle ArmyBuilder@0.0.0~start: ArmyBuilder@0.0.0
 8 verbose lifecycle ArmyBuilder@0.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle ArmyBuilder@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/vagrant/repositories/ArmyBuilder/node_modules/.bin:/usr/local/bin:/home/vagrant/.rbenv/shims:/home/vagrant/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
-10 verbose lifecycle ArmyBuilder@0.0.0~start: CWD: /vagrant/repositories/ArmyBuilder
+9 verbose lifecycle ArmyBuilder@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/vagrant/repos/AoS-Warscroll-Compendium/node_modules/.bin:/usr/local/bin:/home/vagrant/.rbenv/shims:/home/vagrant/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+10 verbose lifecycle ArmyBuilder@0.0.0~start: CWD: /vagrant/repos/AoS-Warscroll-Compendium
 11 silly lifecycle ArmyBuilder@0.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle ArmyBuilder@0.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle ArmyBuilder@0.0.0~start: Failed to exec start script
@@ -23,11 +23,11 @@
 14 verbose stack     at maybeClose (internal/child_process.js:850:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
 15 verbose pkgid ArmyBuilder@0.0.0
-16 verbose cwd /vagrant/repositories/ArmyBuilder
+16 verbose cwd /vagrant/repos/AoS-Warscroll-Compendium
 17 error Linux 3.13.0-63-generic
 18 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
 19 error node v6.2.0
-20 error npm  v3.8.9
+20 error npm  v3.9.3
 21 error code ELIFECYCLE
 22 error ArmyBuilder@0.0.0 start: `node ./bin/www`
 22 error Exit status 1

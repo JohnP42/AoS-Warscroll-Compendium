@@ -49,6 +49,19 @@ header {
 
   nav {
     float: right;
+    ul {
+      li {
+        display: inline-block;
+        a {
+          padding: 0px 2px;
+          display: block;
+          line-height: 50px;
+          &:hover {
+            background-color: $gray;
+          }
+        }
+      }
+    }
   }
 }
 
