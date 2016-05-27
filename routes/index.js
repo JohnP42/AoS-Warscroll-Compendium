@@ -20,7 +20,7 @@ fs.readFile("models/armies.json", "utf8", function(err, data) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', {alliances: alliances, armies: armies, army: armies[0]});
+  res.render('index', {alliances: alliances, armies: armies, army: armies[0], faction: "Order"});
 });
 
 router.post("/", function(req, res) {
@@ -31,9 +31,9 @@ router.post("/", function(req, res) {
 
 router.post("/armies", function(req, res) {
   var partial = fs.readFileSync("views/_partials/_armies.ejs", "utf8");
-  var rendered = ejs.render(partial, {armies: alliances[req.body.index].armies});
   armies = alliances[req.body.index].armies;
   armies.sort(sorter);
+  var rendered = ejs.render(partial, {armies: armies, faction: alliances[req.body.index].name});
   res.send(rendered);
 });
 
