@@ -25,7 +25,9 @@
             {"name": "Unforged",
             "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-duardin-unforged-en.pdf"},
             {"name": "Warden King",
-            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-warden-king-en.pdf"}
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-warden-king-en.pdf"},
+            {"name": "-Dwarfs-",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Compendiums/warhammer-aos-dwarfs-en.pdf"}
           ]
         },
         {
@@ -98,7 +100,9 @@
             {"name": "Waywatcher",
             "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-waywatcher-en.pdf"},
             {"name": "Wayfinder",
-            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-wayfinder-en.pdf"}
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-wayfinder-en.pdf"},
+            {"name": "-Wood Elves-",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Compendiums/warhammer-aos-wood-elves-en.pdf"}
           ]
         },
         {
