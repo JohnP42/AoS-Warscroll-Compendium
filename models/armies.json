@@ -119,7 +119,19 @@
             {"name": "Sylvaneth Dryads",
             "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-dryads-en.pdf"},
             {"name": "Branchwraith",
-            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-branchwraith-en.pdf"}
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls/aos-warscroll-branchwraith-en.pdf"},
+            {"name": "Alarielle the Everqueen",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-alarielle-everqueen-en.pdf"},
+            {"name": "Drycha Hamadreth",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-drycha-hamadreth-en.pdf"},
+            {"name": "Kurnoth Hunters",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-kurnoth-hunters-en.pdf"},
+            {"name": "Spite-Revenants",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-spite-revenants-en.pdf"},
+            {"name": "Tree-Revenants",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-tree-revenants-en.pdf"},
+            {"name": "Branchwych",
+            "scroll": "https://www.games-workshop.com/resources/PDF/AoS_Warscrolls//aos-warscroll-branchwych-en.pdf"}
           ]
         },
         {
